@@ -1,4 +1,4 @@
-# <a href="https://git.io/fxIEm">Табло аэропорта</a>
+# <a href="https://git.io/fxIEm">Открыть</a>
 <a href="https://git.io/fxIEm">
 <img src="screen.png"></a>
 
