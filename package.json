@@ -6,13 +6,16 @@
   "scripts": {
     "build": "webpack --env=prod --color",
     "start": "webpack-dev-server --env=dev --color --open",
-    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cepbep-yandex/airport_scoreboard.git"
   },
-  "author": "",
+   "author": {
+   "name": "Rumyantsev George",
+   "email": "RumyantsevGT@ya.ru",
+   "url": "https://github.com/CEPBEP"
+ },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cepbep-yandex/airport_scoreboard/issues"
